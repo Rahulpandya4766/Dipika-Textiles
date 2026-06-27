@@ -71,12 +71,12 @@ function getImageFiles(folderPath, folderName) {
   // Check if folder name is a number (1-28) - look for images in numbered folders
   // Otherwise look in the catalog folder itself
   let imageFolderPath = folderPath;
-  let imagePathPrefix = `/src/assets/images/catalog/${folderName}`;
+  let imagePathPrefix = `/images/catalog/${folderName}`;
   
   if (/^\d+$/.test(folderName)) {
-    // Numbered folder (1-28) - images are in src/assets/images/N/
-    imageFolderPath = path.join(__dirname, `../src/assets/images/${folderName}`);
-    imagePathPrefix = `/src/assets/images/${folderName}`;
+    // Numbered folder (1-28) - images are in public/images/N/
+    imageFolderPath = path.join(__dirname, `../public/images/${folderName}`);
+    imagePathPrefix = `/images/${folderName}`;
   }
   
   if (!fs.existsSync(imageFolderPath)) {

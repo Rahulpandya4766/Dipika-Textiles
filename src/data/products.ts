@@ -17,10 +17,10 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 220,
     images: [
-      '/src/assets/images/1/1_1.jpeg',
-      '/src/assets/images/1/1_2.jpg',
-      '/src/assets/images/1/1_3.jpg',
-      '/src/assets/images/1/1_4.jpeg'
+      '/images/1/1_1.jpeg',
+      '/images/1/1_2.jpg',
+      '/images/1/1_3.jpg',
+      '/images/1/1_4.jpeg'
     ],
     colors: [
       'White',
@@ -48,7 +48,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 395,
     images: [
-      '/src/assets/images/10/10_1.jpeg'
+      '/images/10/10_1.jpeg'
     ],
     colors: [
       'Blue',
@@ -77,9 +77,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 290,
     images: [
-      '/src/assets/images/11/11_1.jpeg',
-      '/src/assets/images/11/11_2.jpeg',
-      '/src/assets/images/11/11_3.jpeg'
+      '/images/11/11_1.jpeg',
+      '/images/11/11_2.jpeg',
+      '/images/11/11_3.jpeg'
     ],
     colors: [
       'Multi',
@@ -108,9 +108,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 305,
     images: [
-      '/src/assets/images/12/12_1.jpeg',
-      '/src/assets/images/12/12_2.jpeg',
-      '/src/assets/images/12/12_3.jpeg'
+      '/images/12/12_1.jpeg',
+      '/images/12/12_2.jpeg',
+      '/images/12/12_3.jpeg'
     ],
     colors: [
       'Red',
@@ -139,9 +139,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 315,
     images: [
-      '/src/assets/images/13/13_1.jpeg',
-      '/src/assets/images/13/13_2.jpeg',
-      '/src/assets/images/13/13_3.jpeg'
+      '/images/13/13_1.jpeg',
+      '/images/13/13_2.jpeg',
+      '/images/13/13_3.jpeg'
     ],
     colors: [
       'Maroon',
@@ -170,7 +170,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 285,
     images: [
-      '/src/assets/images/14/14_1.jpeg'
+      '/images/14/14_1.jpeg'
     ],
     colors: [
       'Blue',
@@ -199,7 +199,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 330,
     images: [
-      '/src/assets/images/15/15_1.jpg'
+      '/images/15/15_1.jpg'
     ],
     colors: [
       'Purple',
@@ -228,7 +228,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 270,
     images: [
-      '/src/assets/images/16/16_1.jpeg'
+      '/images/16/16_1.jpeg'
     ],
     colors: [
       'Red',
@@ -257,7 +257,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 275,
     images: [
-      '/src/assets/images/17/17_1.jpeg'
+      '/images/17/17_1.jpeg'
     ],
     colors: [
       'Blue',
@@ -286,7 +286,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 265,
     images: [
-      '/src/assets/images/18/18_1.jpeg'
+      '/images/18/18_1.jpeg'
     ],
     colors: [
       'Green',
@@ -315,7 +315,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 285,
     images: [
-      '/src/assets/images/19/19_1.jpeg'
+      '/images/19/19_1.jpeg'
     ],
     colors: [
       'Pink',
@@ -344,9 +344,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 230,
     images: [
-      '/src/assets/images/2/2_1.jpeg',
-      '/src/assets/images/2/2_2.jpeg',
-      '/src/assets/images/2/2_3.jpeg'
+      '/images/2/2_1.jpeg',
+      '/images/2/2_2.jpeg',
+      '/images/2/2_3.jpeg'
     ],
     colors: [
       'Multicolor',
@@ -375,7 +375,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 295,
     images: [
-      '/src/assets/images/20/20_1.jpeg'
+      '/images/20/20_1.jpeg'
     ],
     colors: [
       'Golden',
@@ -404,9 +404,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 350,
     images: [
-      '/src/assets/images/21/21_1.jpeg',
-      '/src/assets/images/21/21_2.jpeg',
-      '/src/assets/images/21/21_3.jpeg'
+      '/images/21/21_1.jpeg',
+      '/images/21/21_2.jpeg',
+      '/images/21/21_3.jpeg'
     ],
     colors: [
       'Multicolor',
@@ -435,9 +435,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 340,
     images: [
-      '/src/assets/images/22/22_1.jpg',
-      '/src/assets/images/22/22_2.jpg',
-      '/src/assets/images/22/22_3.jpeg'
+      '/images/22/22_1.jpg',
+      '/images/22/22_2.jpg',
+      '/images/22/22_3.jpeg'
     ],
     colors: [
       'Pastel',
@@ -467,9 +467,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 210,
     images: [
-      '/src/assets/images/23/23_1.jpeg',
-      '/src/assets/images/23/23_2.jpeg',
-      '/src/assets/images/23/23_3.jpeg'
+      '/images/23/23_1.jpeg',
+      '/images/23/23_2.jpeg',
+      '/images/23/23_3.jpeg'
     ],
     colors: [
       'Blue',
@@ -497,9 +497,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 205,
     images: [
-      '/src/assets/images/24/24_1.jpeg',
-      '/src/assets/images/24/24_2.jpeg',
-      '/src/assets/images/24/24_3.jpeg'
+      '/images/24/24_1.jpeg',
+      '/images/24/24_2.jpeg',
+      '/images/24/24_3.jpeg'
     ],
     colors: [
       'Green',
@@ -527,9 +527,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 435,
     images: [
-      '/src/assets/images/25/25_1.jpg',
-      '/src/assets/images/25/25_2.jpg',
-      '/src/assets/images/25/25_3.jpg'
+      '/images/25/25_1.jpg',
+      '/images/25/25_2.jpg',
+      '/images/25/25_3.jpg'
     ],
     colors: [
       'Red',
@@ -558,7 +558,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 460,
     images: [
-      '/src/assets/images/26/26_1.jpeg'
+      '/images/26/26_1.jpeg'
     ],
     colors: [
       'Purple',
@@ -587,7 +587,7 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 720,
     images: [
-      '/src/assets/images/27/27_1.jpg'
+      '/images/27/27_1.jpg'
     ],
     colors: [
       'Red',
@@ -616,8 +616,8 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 315,
     images: [
-      '/src/assets/images/28/28_1.jpeg',
-      '/src/assets/images/28/28_2.jpeg'
+      '/images/28/28_1.jpeg',
+      '/images/28/28_2.jpeg'
     ],
     colors: [
       'Beige',
@@ -646,9 +646,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 235,
     images: [
-      '/src/assets/images/3/3_1.jpeg',
-      '/src/assets/images/3/3_2.jpeg',
-      '/src/assets/images/3/3_3.jpeg'
+      '/images/3/3_1.jpeg',
+      '/images/3/3_2.jpeg',
+      '/images/3/3_3.jpeg'
     ],
     colors: [
       'Pink',
@@ -677,9 +677,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 240,
     images: [
-      '/src/assets/images/4/4_1.jpeg',
-      '/src/assets/images/4/4_2.jpeg',
-      '/src/assets/images/4/4_3.jpeg'
+      '/images/4/4_1.jpeg',
+      '/images/4/4_2.jpeg',
+      '/images/4/4_3.jpeg'
     ],
     colors: [
       'Blue',
@@ -708,8 +708,8 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 225,
     images: [
-      '/src/assets/images/5/5_1.jpeg',
-      '/src/assets/images/5/5_2.jpeg'
+      '/images/5/5_1.jpeg',
+      '/images/5/5_2.jpeg'
     ],
     colors: [
       'Green',
@@ -738,9 +738,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 380,
     images: [
-      '/src/assets/images/6/6_1.jpeg',
-      '/src/assets/images/6/6_2.jpg',
-      '/src/assets/images/6/6_3.jpg'
+      '/images/6/6_1.jpeg',
+      '/images/6/6_2.jpg',
+      '/images/6/6_3.jpg'
     ],
     colors: [
       'Red',
@@ -769,9 +769,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 400,
     images: [
-      '/src/assets/images/7/7_1.jpeg',
-      '/src/assets/images/7/7_2.jpg',
-      '/src/assets/images/7/7_3.jpg'
+      '/images/7/7_1.jpeg',
+      '/images/7/7_2.jpg',
+      '/images/7/7_3.jpg'
     ],
     colors: [
       'Golden',
@@ -800,9 +800,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 385,
     images: [
-      '/src/assets/images/8/8_1.jpeg',
-      '/src/assets/images/8/8_2.jpg',
-      '/src/assets/images/8/8_3.jpg'
+      '/images/8/8_1.jpeg',
+      '/images/8/8_2.jpg',
+      '/images/8/8_3.jpg'
     ],
     colors: [
       'Purple',
@@ -831,9 +831,9 @@ export const products: Product[] = [
     wholesaleMinQty: 10,
     wholesalePrice: 415,
     images: [
-      '/src/assets/images/9/9_1.jpeg',
-      '/src/assets/images/9/9_2.jpg',
-      '/src/assets/images/9/9_3.jpg'
+      '/images/9/9_1.jpeg',
+      '/images/9/9_2.jpg',
+      '/images/9/9_3.jpg'
     ],
     colors: [
       'Pink',

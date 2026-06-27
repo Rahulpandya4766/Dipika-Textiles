@@ -48,9 +48,9 @@ The `dist/` folder contains your production-ready website.
 src/assets/images/catalog/29/
 ```
 
-### Step 2: Add Images & Info File
+### Step 2: Add Images
 
-Place your product images in: `src/assets/images/29/`
+Place your product images in: `public/images/29/`
 
 Create `info.txt` in `catalog/29/`:
 
@@ -79,6 +79,11 @@ npm run generate-products
 ```
 
 **Done!** Your product is now live! 🎊
+
+**Important:** 
+- Product images must be in `public/images/N/` folders
+- Info files go in `src/assets/images/catalog/N/` folders
+- The generator script automatically links them together
 
 ---
 
@@ -111,17 +116,20 @@ npm run generate-products
 
 ```
 dipika-textiles/
-├── public/                      # Static assets (images, hero banners)
+├── public/                      # Static assets (served directly)
+│   ├── images/                  # Product images (28 folders)
+│   │   ├── 1/                   # Product 1 images
+│   │   ├── 2/                   # Product 2 images
+│   │   └── ...
+│   ├── dipika_hero_banner_1782584818093.jpg
+│   └── other showcase images
 ├── src/
 │   ├── assets/
 │   │   └── images/
-│   │       ├── catalog/         # Product info.txt files
-│   │       │   ├── 1/          # Product 1 info
-│   │       │   ├── 2/          # Product 2 info
-│   │       │   └── ...
-│   │       ├── 1/              # Product 1 images
-│   │       ├── 2/              # Product 2 images
-│   │       └── ...
+│   │       └── catalog/         # Product info.txt files
+│   │           ├── 1/           # Product 1 info
+│   │           ├── 2/           # Product 2 info
+│   │           └── ...
 │   ├── components/              # React components
 │   ├── data/
 │   │   └── products.ts         # Auto-generated from catalog
