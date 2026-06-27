@@ -1,0 +1,17 @@
+﻿name: School Green Uniform Saree
+code: DT-UNI-24
+category: saree
+fabric: Uniform Saree
+price: 245
+wholesalePrice: 205
+wholesaleMinQty: 10
+colors: Green, Dark Green
+description: Comfortable green uniform saree for schools
+longDescription: Quality uniform saree perfect for educational institutions. Long-lasting and low-maintenance.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

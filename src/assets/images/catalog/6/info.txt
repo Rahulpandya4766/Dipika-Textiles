@@ -1,0 +1,17 @@
+﻿name: Red Soft Silk Weaving Saree
+code: DT-SOF-06
+category: saree
+fabric: Soft Silk
+price: 450
+wholesalePrice: 380
+wholesaleMinQty: 10
+colors: Red, Maroon, Crimson
+description: Luxurious red soft silk saree with intricate weaving
+longDescription: Stunning red soft silk saree featuring intricate traditional weaving patterns. Perfect for weddings and special occasions.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

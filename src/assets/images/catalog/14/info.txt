@@ -1,0 +1,17 @@
+﻿name: Modern Ladies Casual Saree
+code: DT-LAD-14
+category: saree
+fabric: Ladies Saree
+price: 340
+wholesalePrice: 285
+wholesaleMinQty: 10
+colors: Blue, Green, Yellow
+description: Modern ladies saree for casual wear
+longDescription: Comfortable ladies saree designed for daily wear. Easy to drape and maintain.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

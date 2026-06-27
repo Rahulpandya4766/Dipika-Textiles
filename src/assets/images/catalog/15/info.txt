@@ -1,0 +1,17 @@
+﻿name: Premium Ladies Designer Saree
+code: DT-LAD-15
+category: saree
+fabric: Ladies Saree
+price: 395
+wholesalePrice: 330
+wholesaleMinQty: 10
+colors: Purple, Gold, Silver
+description: Premium quality ladies designer saree
+longDescription: Luxurious ladies saree with premium fabric and designer work. Perfect for special occasions.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

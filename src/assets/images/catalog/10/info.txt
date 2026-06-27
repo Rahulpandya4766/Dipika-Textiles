@@ -1,0 +1,17 @@
+﻿name: Blue Soft Silk Festive Saree
+code: DT-SOF-10
+category: saree
+fabric: Soft Silk
+price: 470
+wholesalePrice: 395
+wholesaleMinQty: 10
+colors: Blue, Royal Blue, Teal
+description: Stunning blue soft silk saree for festive occasions
+longDescription: Beautiful blue soft silk saree perfect for festive celebrations. Rich color and luxurious drape.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

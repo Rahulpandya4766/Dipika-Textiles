@@ -1,0 +1,17 @@
+﻿name: Pink Soft Silk Wedding Saree
+code: DT-SOF-09
+category: saree
+fabric: Soft Silk
+price: 495
+wholesalePrice: 415
+wholesaleMinQty: 10
+colors: Pink, Rose Pink, Magenta
+description: Gorgeous pink soft silk saree for weddings
+longDescription: Magnificent pink soft silk saree designed for wedding occasions. Features elegant work and premium silk quality.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

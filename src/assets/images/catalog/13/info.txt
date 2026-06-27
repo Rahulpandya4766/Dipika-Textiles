@@ -1,0 +1,17 @@
+﻿name: Traditional Ladies Wedding Saree
+code: DT-LAD-13
+category: saree
+fabric: Ladies Saree
+price: 380
+wholesalePrice: 315
+wholesaleMinQty: 10
+colors: Maroon, Red, Pink
+description: Traditional ladies saree for wedding functions
+longDescription: Classic ladies saree perfect for wedding ceremonies. Traditional patterns with modern comfort.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

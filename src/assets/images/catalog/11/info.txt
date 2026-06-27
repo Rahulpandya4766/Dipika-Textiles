@@ -1,0 +1,17 @@
+﻿name: Elegant Ladies Party Wear Saree
+code: DT-LAD-11
+category: saree
+fabric: Ladies Saree
+price: 350
+wholesalePrice: 290
+wholesaleMinQty: 10
+colors: Multi, Pink, Blue
+description: Stylish ladies saree perfect for parties
+longDescription: Contemporary ladies saree designed for modern women. Features trendy patterns and comfortable fabric.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: false

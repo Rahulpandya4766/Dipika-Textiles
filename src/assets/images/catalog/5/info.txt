@@ -1,0 +1,17 @@
+﻿name: Green Cotton Blend Traditional Saree
+code: DT-COT-05
+category: saree
+fabric: Cotton Blend
+price: 270
+wholesalePrice: 225
+wholesaleMinQty: 10
+colors: Green, Olive, Mint
+description: Traditional green cotton blend saree with ethnic motifs
+longDescription: Classic green cotton blend saree adorned with traditional ethnic motifs. Comfortable for all-day wear.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

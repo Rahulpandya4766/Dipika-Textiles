@@ -1,0 +1,17 @@
+﻿name: Royal Banarasi Silk Saree
+code: DT-BAN-27
+category: saree
+fabric: Banarasi Silk
+price: 850
+wholesalePrice: 720
+wholesaleMinQty: 10
+colors: Red, Gold, Maroon
+description: Authentic royal Banarasi silk saree with zari work
+longDescription: Magnificent Banarasi silk saree handwoven with traditional zari work. A timeless piece for wedding and special occasions. Premium quality guaranteed.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

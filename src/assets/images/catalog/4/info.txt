@@ -1,0 +1,17 @@
+﻿name: Blue Cotton Blend Designer Saree
+code: DT-COT-04
+category: saree
+fabric: Cotton Blend
+price: 290
+wholesalePrice: 240
+wholesaleMinQty: 10
+colors: Blue, Navy, Sky Blue
+description: Stylish blue cotton blend saree with designer patterns
+longDescription: Modern blue cotton blend saree featuring contemporary designer patterns. Perfect blend of style and comfort.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: true

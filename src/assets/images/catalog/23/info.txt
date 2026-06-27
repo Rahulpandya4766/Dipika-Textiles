@@ -1,0 +1,17 @@
+﻿name: Corporate Blue Uniform Saree
+code: DT-UNI-23
+category: saree
+fabric: Uniform Saree
+price: 250
+wholesalePrice: 210
+wholesaleMinQty: 10
+colors: Blue, Navy
+description: Professional blue uniform saree for corporate wear
+longDescription: Practical and elegant uniform saree designed for corporate and institutional use. Durable and easy-care.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

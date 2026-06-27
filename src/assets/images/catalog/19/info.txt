@@ -1,0 +1,17 @@
+﻿name: Pink Art Silk Wedding Saree
+code: DT-ART-19
+category: saree
+fabric: Art Silk
+price: 340
+wholesalePrice: 285
+wholesaleMinQty: 10
+colors: Pink, Rose, Peach
+description: Charming pink art silk saree for weddings
+longDescription: Lovely pink art silk saree designed for wedding celebrations. Elegant and affordable.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

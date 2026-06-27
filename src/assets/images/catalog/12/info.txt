@@ -1,0 +1,17 @@
+﻿name: Designer Ladies Festive Saree
+code: DT-LAD-12
+category: saree
+fabric: Ladies Saree
+price: 365
+wholesalePrice: 305
+wholesaleMinQty: 10
+colors: Red, Gold, Orange
+description: Designer ladies saree for festive celebrations
+longDescription: Fashionable ladies saree with designer touch. Ideal for festive occasions and celebrations.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

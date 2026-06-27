@@ -1,0 +1,17 @@
+﻿name: Traditional Silk Weaving Saree
+code: DT-SIL-25
+category: saree
+fabric: Silk Weaving
+price: 520
+wholesalePrice: 435
+wholesaleMinQty: 10
+colors: Red, Gold, Maroon
+description: Exquisite traditional silk weaving saree
+longDescription: Masterfully crafted silk weaving saree with traditional patterns. Premium quality silk and intricate weaving work.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

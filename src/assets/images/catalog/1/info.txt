@@ -1,0 +1,17 @@
+﻿name: White Litchi Silk Cotton Blend Saree
+code: DT-COT-01
+category: saree
+fabric: Cotton Blend
+price: 265
+wholesalePrice: 220
+wholesaleMinQty: 10
+colors: White, Off White
+description: Elegant white cotton blend saree with litchi silk texture
+longDescription: Beautiful white cotton blend saree features luxurious litchi silk texture. Perfect for casual wear and daily office settings.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

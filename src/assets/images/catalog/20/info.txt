@@ -1,0 +1,17 @@
+﻿name: Golden Art Silk Designer Saree
+code: DT-ART-20
+category: saree
+fabric: Art Silk
+price: 350
+wholesalePrice: 295
+wholesaleMinQty: 10
+colors: Golden, Gold, Beige
+description: Luxurious golden art silk designer saree
+longDescription: Glamorous golden art silk saree with designer patterns. Perfect for special occasions.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

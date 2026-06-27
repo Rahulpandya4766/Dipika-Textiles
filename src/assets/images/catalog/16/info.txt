@@ -1,0 +1,17 @@
+﻿name: Red Art Silk Festive Saree
+code: DT-ART-16
+category: saree
+fabric: Art Silk
+price: 320
+wholesalePrice: 270
+wholesaleMinQty: 10
+colors: Red, Maroon, Crimson
+description: Vibrant red art silk saree for festive occasions
+longDescription: Beautiful red art silk saree perfect for festivals. Rich color and smooth texture.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

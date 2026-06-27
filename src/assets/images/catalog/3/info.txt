@@ -1,0 +1,17 @@
+﻿name: Pink Cotton Blend Fancy Saree
+code: DT-COT-03
+category: saree
+fabric: Cotton Blend
+price: 280
+wholesalePrice: 235
+wholesaleMinQty: 10
+colors: Pink, Rose, Peach
+description: Charming pink cotton blend saree with fancy border
+longDescription: Delicate pink cotton blend saree with beautiful fancy border work. Ideal for daily wear and office settings.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

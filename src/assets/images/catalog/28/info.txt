@@ -1,0 +1,17 @@
+﻿name: Natural Linen Casual Saree
+code: DT-LIN-28
+category: saree
+fabric: Linen
+price: 380
+wholesalePrice: 315
+wholesaleMinQty: 10
+colors: Beige, Brown, Natural
+description: Comfortable natural linen saree for daily wear
+longDescription: Eco-friendly linen saree perfect for daily wear and summer months. Breathable fabric with natural texture. Easy to maintain.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: false

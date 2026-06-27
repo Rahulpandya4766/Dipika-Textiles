@@ -1,0 +1,17 @@
+﻿name: Pastel Organza Party Wear Saree
+code: DT-ORG-22
+category: saree
+fabric: Organza
+price: 410
+wholesalePrice: 340
+wholesaleMinQty: 10
+colors: Pastel, Pink, Blue, Yellow
+description: Elegant pastel organza saree for party wear
+longDescription: Graceful pastel-colored organza saree ideal for parties and evening events. Features sheer elegance.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: false

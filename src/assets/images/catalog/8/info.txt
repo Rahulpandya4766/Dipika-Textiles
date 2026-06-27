@@ -1,0 +1,17 @@
+﻿name: Purple Soft Silk Designer Saree
+code: DT-SOF-08
+category: saree
+fabric: Soft Silk
+price: 460
+wholesalePrice: 385
+wholesaleMinQty: 10
+colors: Purple, Violet, Lavender
+description: Beautiful purple soft silk saree with designer work
+longDescription: Exquisite purple soft silk saree featuring designer embellishments. Perfect for special events and celebrations.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

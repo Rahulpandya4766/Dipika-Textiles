@@ -1,0 +1,17 @@
+﻿name: Floral Organza Designer Saree
+code: DT-ORG-21
+category: saree
+fabric: Organza
+price: 420
+wholesalePrice: 350
+wholesaleMinQty: 10
+colors: Multicolor, Pink, White
+description: Beautiful floral organza saree with designer work
+longDescription: Stunning organza saree featuring delicate floral patterns. Light, airy, and perfect for summer weddings.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

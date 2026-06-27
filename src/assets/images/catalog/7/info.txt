@@ -1,0 +1,17 @@
+﻿name: Golden Soft Silk Party Wear Saree
+code: DT-SOF-07
+category: saree
+fabric: Soft Silk
+price: 480
+wholesalePrice: 400
+wholesaleMinQty: 10
+colors: Golden, Gold, Beige
+description: Elegant golden soft silk saree for party wear
+longDescription: Glamorous golden soft silk saree with rich texture. Ideal for parties, receptions, and festive celebrations.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

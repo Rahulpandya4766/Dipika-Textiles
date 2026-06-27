@@ -1,0 +1,17 @@
+﻿name: Multicolor Cotton Blend Saree
+code: DT-COT-02
+category: saree
+fabric: Cotton Blend
+price: 275
+wholesalePrice: 230
+wholesaleMinQty: 10
+colors: Multicolor, Red, Blue
+description: Vibrant multicolor cotton blend saree with artistic patterns
+longDescription: This eye-catching multicolor cotton blend saree features vibrant artistic patterns. Perfect for casual and festive occasions.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: false

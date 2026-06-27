@@ -1,0 +1,17 @@
+﻿name: Blue Art Silk Party Saree
+code: DT-ART-17
+category: saree
+fabric: Art Silk
+price: 330
+wholesalePrice: 275
+wholesaleMinQty: 10
+colors: Blue, Navy, Sky Blue
+description: Elegant blue art silk saree for parties
+longDescription: Stylish blue art silk saree ideal for party wear. Features attractive sheen and comfortable drape.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: true
+isBestSeller: true

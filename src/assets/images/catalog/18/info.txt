@@ -1,0 +1,17 @@
+﻿name: Green Art Silk Traditional Saree
+code: DT-ART-18
+category: saree
+fabric: Art Silk
+price: 310
+wholesalePrice: 265
+wholesaleMinQty: 10
+colors: Green, Olive, Mint
+description: Traditional green art silk saree
+longDescription: Classic green art silk saree with traditional appeal. Perfect for cultural events.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false

@@ -1,0 +1,17 @@
+﻿name: Premium Silk Weaving Designer Saree
+code: DT-SIL-26
+category: saree
+fabric: Silk Weaving
+price: 550
+wholesalePrice: 460
+wholesaleMinQty: 10
+colors: Purple, Gold, Silver
+description: Premium silk weaving saree with designer patterns
+longDescription: Luxurious silk weaving saree featuring designer motifs. Perfect for weddings and grand celebrations.
+length: 5.5 meters
+blouse: 80 cm unstitched matching fabric
+work: Traditional design and weaving
+washCare: Hand Wash or Dry Clean
+purity: Pure Fabric
+isLatest: false
+isBestSeller: false
